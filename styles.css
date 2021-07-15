@@ -44,15 +44,3 @@ h1 {
   margin-right: auto;
   width: 50%;
 }
-
-#image  {
-max-width: 100%;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#img-caption {
-	text-align:center;
-}
